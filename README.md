@@ -26,7 +26,7 @@ A simple and interactive **To-Do List application** built using **HTML, CSS, and
 
 ## 📂 Project Structure
 
-To-Do-List│
+To-Do-List
           
           ├── index.html
           ├── style.css
