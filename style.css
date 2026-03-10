@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:#9A879D;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    width:350px;
+    background:#CFCFCD;
+    padding:20px;
+    text-align:center;
+    border-radius:8px;
+}
+
+h1{
+    color:#1b011f;
+}
+
+.input-area{
+    margin-top:15px;
+}
+
+input{
+    width:230px;
+    padding:8px;
+    border:2px solid #905397;
+    font-size:16px;
+    outline:none;
+}
+
+button{
+    padding:9px 12px;
+    background:#805193;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#6e3f7a;
+}
+
+
+
+ul{
+    padding:0;
+    margin-top:20px;
+}
+
+li{
+    list-style:none;
+    background:#805193;
+    color:white;
+    padding:8px;
+    margin-top:8px;
+    position:relative;
+    text-align:left;
+}
+
+li i{
+    position:absolute;
+    right:10px;
+    cursor:pointer;
+}
+
+.completed{
+    text-decoration:line-through;
+    opacity:0.6;
+}
+.edit{
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
